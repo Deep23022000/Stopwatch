@@ -1,0 +1,74 @@
+body{
+    background-color: #343a40;
+    
+}
+
+.div-container{
+    background-color: #212529;
+    position : relative;
+    top: calc(10vw);
+    left: 30%;
+    width: 400px;
+    height: 200px;
+    border-radius: 5px;
+    padding: 80px 0px 0px 80px;
+    box-shadow: 
+                10px 10px 15px rgba(0, 0, 0, 0.3),
+                0px 10px 15px rgba(0, 0, 0, 0.3),   
+                -10px 10px 15px rgba(0, 0, 0, 0.3); 
+}
+
+#time-container{
+   font-size: 70px;
+   font-family: digital-clock-font;
+   color:aliceblue;
+}
+
+.div-buttons{
+    margin : 10px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.start{
+    background-color: #343a40;
+    color:aliceblue;
+    width: 80px;
+    height: 40px;
+    font-size:medium;
+    border-width: 0px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.start:hover{
+    transform: scale(1.1);
+}
+
+.reset{
+    background-color: #343a40;
+    color:aliceblue;
+    width: 80px;
+    height: 40px;
+    font-size:medium;
+    border-width: 0px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.reset:hover{
+    transform: scale(1.1);
+}
+.stop{
+    background-color: #da627d;
+    color:aliceblue;
+    width: 80px;
+    height: 40px;
+    font-size: medium;
+    border-width: 0px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.stop:hover{
+    transform: scale(1.1);
+}
