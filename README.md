@@ -2,6 +2,7 @@
 
 A basic stopwatch web application with Start, Stop, and Reset buttons.
 
+[Web Link](https://deep23022000.github.io/Stopwatch/) 
 ## Table of Contents
 
 - [Description](#description)
@@ -14,6 +15,8 @@ A basic stopwatch web application with Start, Stop, and Reset buttons.
 ## Description
 
 This project is a simple stopwatch application that allows users to start, stop, and reset a timer. The timer is displayed in a digital format showing hours, minutes, and seconds.
+
+
 ![image](https://github.com/Deep23022000/Stopwatch/assets/105705099/a531474e-e708-418b-a851-70eee7d830fe)
 
 
